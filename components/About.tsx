@@ -25,8 +25,8 @@ export const About: React.FC = () => {
                      <img src="https://picsum.photos/seed/cto/100/100" alt="Client CTO" />
                    </div>
                    <div>
-                      <div className="text-sm font-bold text-slate-900">David Chen</div>
-                      <div className="text-xs text-slate-500">CTO, ScaleUp Inc.</div>
+                      <div className="text-sm font-bold text-slate-900">Mohan</div>
+                      <div className="text-xs text-slate-500">Co-Founder, NSpark</div>
                    </div>
                 </div>
             </div>
